@@ -4826,7 +4826,7 @@
   "standaardregisterurl": "Core-Person-Vocabulary",
   "template": "core-person-ap_en.j2",
   "title": "Core Person Vocabulary",
-  "toolchaincommit": "48b3de8be33ad6d09caeeb2c83da725ab93f69ac",
+  "toolchaincommit": "22d6f2169ff12aca1b4fd7c1c178d44862d70ef8",
   "translation": [
     {
       "language": "en",
