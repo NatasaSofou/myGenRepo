@@ -1,3 +1,3 @@
 # myGenRepo
 
-This is a generated repo
+This is a generated repo,new one.
